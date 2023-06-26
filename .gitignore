@@ -1,2 +1,9 @@
 config
 data
+.env
+log
+
+!data/20230621/domain.rules
+
+# Python
+__pycache__
